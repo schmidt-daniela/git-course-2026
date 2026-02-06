@@ -1,2 +1,2 @@
-print("Hello, git!")
+print("Hello hello, everyone!")
 print("Goodbye, git!")
